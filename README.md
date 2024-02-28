@@ -11,7 +11,6 @@
 
 ![Mikado94's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=domenic&show_icons=true&theme=radical)
 
-### Discord : >Mikado#6666
 
 <p align="center"> 
   <br>Nombre de vues: <br>
